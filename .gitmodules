@@ -1,0 +1,4 @@
+[submodule "mast3r_modified"]
+	path = mast3r_modified
+	url = https://github.com/RuiYiYong/mast3r_modified
+	branch = ruiy
