@@ -6,7 +6,7 @@
 # sparse gradio demo functions
 # --------------------------------------------------------
 import sys
-sys.path.insert(0, "PATH_TO_MAST3R/MAST3R DIRECTORY")
+sys.path.insert(0, "PATH_TO_mast3r_modified")
 
 import math
 import gradio
