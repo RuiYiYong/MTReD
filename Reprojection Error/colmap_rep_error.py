@@ -1,6 +1,7 @@
 """ 
-This script computes the reprojection error for each Colmap output from points3D.txt files. 
-
+This script computes the average reprojection error for Colmap outputs using the points3D.txt 
+output files. The script takes a list of paths to different points3D.txt files as an inputs and prints the 
+result to the console for each file. 
 """
 
 
