@@ -143,8 +143,7 @@ def main(input_folder, output_folder):
             Image.fromarray((image * 255).astype(np.uint8)).save(f"{save_folder}/{cam_params['frames'][frame_index]['file_path'].split('/')[-1]}")
 
 if __name__ == "__main__":
-    INPUT_FOLDER = "MAST3R_RESULTS_FOLDER"
+    MAST3R_RESULTS_FOLDER = "MAST3R_RESULTS_FOLDER"
     OUTPUT_FOLDER = "REPROJECTED_IMAGES_OUTPUT_FOLDER"
-    
-    main(INPUT_FOLDER, OUTPUT_FOLDER)
+    main(MAST3R_RESULTS_FOLDER, OUTPUT_FOLDER)
     
