@@ -14,3 +14,13 @@
 
 ## Sample Outputs
 <p>Note that some sample outputs have been provided (1 for Colmap and 1 for MASt3R). These can be used with the projection script, however an error will be returned once the script looks for results from the 2nd scene. However, if your setup is correct, you should be able to obtain reprojected frames for the first scene for both MASt3R and Colmap.</p>
+
+## Citation
+```
+@inproceedings{yong2024MTReD,
+  title={MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain},
+  author = {Yong, Picosson, and Wiliem},
+  booktitle = {MaCVi},
+  year = {2024}
+}
+```
