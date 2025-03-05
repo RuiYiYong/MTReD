@@ -1,4 +1,5 @@
 # MTReD: 3D Reconstruction Dataset for Fly-over Videos of Maritime Domain
+<b><a href="https://arxiv.org/abs/2503.00853v1">arxiv</a></b>    <b><a href="https://huggingface.co/datasets/RuiYiYong/MTReD">Hugging Face</a></b>
 ## MTReD
 <p>MTReD consists of 19 fly-over Maritime scenes with images frame extracted from open-source YouTube videos. The dataset covers a variety of Maritime scenes including ships, islands, and coastlines. The MTReD is found in the dataset folder of this repositiory. </p>
 
